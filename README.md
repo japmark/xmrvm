@@ -21,5 +21,5 @@ Open VirtualBox to see the virtual machine running and change any properties in 
 
 ### Check progress
 
-Go to unmineable.com/coins/SOL/ and type in put in your wallet address
+Go to https://unmineable.com/coins/SOL/ and type in put in your wallet address
 
