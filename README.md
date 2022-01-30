@@ -15,7 +15,7 @@ Edit Vagrantfile with your phantom wallet address (click the address to copy)
 To start: START_ON_WINDOWS.bat
 To stop, exit previously running cmd window, then: STOP_ON_WINDOWS.bat
 
-Open VirtualBox to 
+Open VirtualBox to see the virtual machine running and change any properties in a graphical window
 
 ### Check progress
 
